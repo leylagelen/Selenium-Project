@@ -19,5 +19,6 @@ public class Create_driver {
 				driver.manage().window().maximize();
 		        driver.get("https://www.google.com/");
 		        //driver.manage().timeouts().implicitlyWait(1, TimeUnit.MINUTES); 
+		        
 	}
 }
