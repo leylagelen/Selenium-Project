@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 public class Create_driver {
 	public static void main(String[] args) throws Exception {	
 		// Your ChromeDriver Path
-		System.setProperty("webdriver.chrome.driver","C:\\Users\\Leyla GELEN\\Desktop\\chromedriver_win32\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","hromedriver.exe");
 		  
 				// Create New Option
 				ChromeOptions optionsC = new ChromeOptions();
